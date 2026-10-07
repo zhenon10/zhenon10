@@ -26,4 +26,4 @@ Kurumsal siteler de yapıyorum: [Flora Atlas Çiçek Evi](https://floratlas-eta.
 
 ### İletişim
 
-Bir proje fikriniz varsa: **[mbftech.com.tr](https://mbftech.com.tr)**
+Bir proje fikriniz varsa: **[mbftech.com.tr](https://mbftech.com.tr)** · [burak@mbftech.com.tr](mailto:burak@mbftech.com.tr)
